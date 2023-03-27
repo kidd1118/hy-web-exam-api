@@ -1,0 +1,14 @@
+.player-wrapper {
+    position: relative;
+    height: 0;
+    padding-bottom: 100vh;
+  }
+  
+  .react-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+
+  
